@@ -1,0 +1,36 @@
+item { 
+	name:'love'
+	id:1
+}
+item { 
+	name:'thumbs_up'
+	id:2
+}
+item { 
+	name:'congratulations'
+	id:3
+}
+item { 
+	name:'boo'
+	id:4
+}
+item { 
+	name:'raise_hand'
+	id:5
+}
+item { 
+	name:'cheer_up'
+	id:6
+}
+item { 
+	name:'hello'
+	id:7
+}
+item { 
+	name:'ok'
+	id:8
+}
+item { 
+	name:'no'
+	id:9
+}
