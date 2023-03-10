@@ -33,6 +33,7 @@ Based on these requirements, I choose MobileNet-SSD to train the model.
 ## Reference
 * https://www.researchgate.net/publication/343223517_A_Mobile-Based_Framework_for_Detecting_Objects_Using_SSD-MobileNet_in_Indoor_Environment
 * https://www.analyticsvidhya.com/blog/2022/09/object-detection-using-yolo-and-mobilenet-ssd/
+* https://www.researchgate.net/figure/MobileNet-SSD-AF-architecture-we-use-MobileNet-as-the-feature-extractor-network-and-SSD_fig7_324584455
 * https://www.youtube.com/watch?v=pDXdlXlaCco
 * https://www.youtube.com/watch?v=ZTSRZt04JkY
 * https://www.tensorflow.org/tutorials/images/transfer_learning
