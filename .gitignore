@@ -1,7 +1,8 @@
 # privacy
 
-Tensorflow/workspace/images/
-Tensorflow/workspace/models/
+Tensorflow/workspace/images/test
+Tensorflow/workspace/images/train
+Tensorflow/workspace/models/my_ssd_mobnet
 
 
 
