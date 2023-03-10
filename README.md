@@ -1,27 +1,31 @@
 # Hand pose detection 
 
-This is my first object detection practice project, the final model will be used by my video conferece website project (Meeting).
+This is my first object detection practice project, the final model will be converted to TensorFlow.js model and used by my video conferece website project ([Meeting](https://github.com/Yjaywang/Meeting)).
 
-In this practice, some goals need to be achieved for application:
+In this practice, some goals need to be achieved for my end application:
 * Light-weighted
-* Low computation cunsumption
+* Low computation consumption
+* Low latency
 * Acceptable accuracy
 
 Based on these requirements, I choose MobileNet-SSD to train the model.
 
-## MobileNet-SSD
+## MobileNet Single Shot Detection (MobileNet-SSD)
 ![](https://i.imgur.com/L9FQt3T.png)
 
-
-
-## Image Class
-
+## Training data preparation
+### Image Class
+* 9 classes
 ![](https://i.imgur.com/s32Cgie.png)
+### Labeling
+* use [LabelImg](https://github.com/heartexlabs/labelImg)
 
-
+### Train/test ratio
+* train: 90%; test: 10%
 
 ## Training result
-![](https://i.imgur.com/b0mfRdo.png)
+![](https://i.imgur.com/rotWyse.png)
+
 
 
 ## Reference
