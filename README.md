@@ -16,7 +16,8 @@ Based on these requirements, I choose MobileNet-SSD to train the model.
 
 ## Image Class
 
-![](https://i.imgur.com/OcLie8G.png)
+![](https://i.imgur.com/s32Cgie.png)
+
 
 
 ## Training result
