@@ -16,8 +16,10 @@ Based on these requirements, I choose MobileNet-SSD to train the model.
 ## Training data preparation
 ### Image Class
 * 9 classes
+
 ![](https://i.imgur.com/s32Cgie.png)
 ### Labeling
+
 * use [LabelImg](https://github.com/heartexlabs/labelImg)
 
 ### Train/test ratio
